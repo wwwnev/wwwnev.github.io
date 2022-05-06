@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "William Neveu"
   avatar           : "test.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Masters student at Université de Montréal
+                          aaaaaaaaaaaaa" #"Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
