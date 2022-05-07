@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "William Neveu"
   avatar           : me.png
-  bio              : "«williamneveu» at 'google mail'. com" #"Masters student at Université de Montréal" #"Your biography for the left-hand sidebar"
+  bio              : "williamneveu at 'google mail' . com" #"Masters student at Université de Montréal" #"Your biography for the left-hand sidebar"
   location         : "Montréal, QC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : #"«williamneveu» at 'google mail'. com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
