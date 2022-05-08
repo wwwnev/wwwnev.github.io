@@ -15,7 +15,14 @@ During my (almost) 2 years as a grad student, I co-authored 2 SIGGRAPH papers:
 
 ---
 
-[Keypoint-Driven Line Drawing Vectorization via PolyVector Flow, Puhachov et al. (2021)](https://www-ens.iro.umontreal.ca/~puhachoi/keypoint-driven-polyvector-flow/)  
+[Keypoint-Driven Line Drawing Vectorization via PolyVector Flow](https://www-ens.iro.umontreal.ca/~puhachoi/keypoint-driven-polyvector-flow/)
+Ivan Puhachov, William Neveu, Edward Chien, Mikhail Bessmeltsev
+ACM Transaction on Graphics (SIGGRAPH ASIA 2021)
+[\[PDF\]](http://www-labs.iro.umontreal.ca/~bmpix/pdf/polyvector_flow.pdf) \[website\] \[acm\] \[code & data\]
+
+---
+
+
 [Stability-Aware Simplification of Curve Networks, Neveu et al. (2022)](https://wwwnev.github.io). In final stages of publication.
 
 Research interests
