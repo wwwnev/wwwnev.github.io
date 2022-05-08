@@ -12,6 +12,7 @@ Master's student. Computer science at [Universit&#233; de Montr&#233;al](https:/
 Publications
 ======
 During my (almost) 2 years as a grad student, I co-authored 2 SIGGRAPH papers:
+
 ---
 
 [Keypoint-Driven Line Drawing Vectorization via PolyVector Flow, Puhachov et al. (2021)](https://www-ens.iro.umontreal.ca/~puhachoi/keypoint-driven-polyvector-flow/)  
