@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data",
-    "\\_pages",
-    "\\_publications"
+    "\\_pages"
   ],
-  "SelectedNode": "\\_pages\\publications.md",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
