@@ -12,10 +12,10 @@ Master's student. Computer science at [Universit&#233; de Montr&#233;al](https:/
 Publications
 ======
 
-[Stability-Aware Simplification of Curve Networks](./curvenetwork_paper.html)  
+[Stability-Aware Simplification of Curve Networks](http://www-labs.iro.umontreal.ca/~bmpix/curve_networks/)  
 **William Neveu**, Ivan Puhachov, Bernhard Thomaszewski, and Mikhail Bessmeltsev  
 ACM SIGGRAPH 2022 Proceedings  
-\[PDF\] [\[website\]](./curvenetwork_paper.html) [\[acm\]](https://dl.acm.org/doi/10.1145/3528233.3530711) \[code\]
+[\[PDF\]](http://www-labs.iro.umontreal.ca/~bmpix/curve_networks/files/curve_networks.pdf) [\[website\]](http://www-labs.iro.umontreal.ca/~bmpix/curve_networks/) [\[acm\]](https://dl.acm.org/doi/10.1145/3528233.3530711) \[code\]
 
 ---
 
