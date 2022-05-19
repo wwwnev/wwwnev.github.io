@@ -19,7 +19,7 @@ ACM SIGGRAPH 2022 Proceedings
 
 ---
 
-[Keypoint-Driven Line Drawing Vectorization via PolyVector Flow](https://www-ens.iro.umontreal.ca/~puhachoi/keypoint-driven-polyvector-flow/)  
+[Keypoint-Driven Line Drawing Vectorization via PolyVector Flow](https://puhachov.xyz/publications/keypoint-driven-polyvector-flow/)  
 Ivan Puhachov, **William Neveu**, Edward Chien, Mikhail Bessmeltsev  
 ACM Transaction on Graphics (SIGGRAPH ASIA 2021)  
 [\[PDF\]](http://www-labs.iro.umontreal.ca/~bmpix/pdf/polyvector_flow.pdf) [\[website\]](https://www-ens.iro.umontreal.ca/~puhachoi/keypoint-driven-polyvector-flow/) [\[acm\]](https://dl.acm.org/doi/10.1145/3478513.3480529) [\[code & data\]](https://github.com/ivanpuhachov/line-drawing-vectorization-polyvector-flow)
