@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, Université de Montréal, 2022 (expected)
+* B.S. in Architecture, Université de Montréal, 2020
+* B.S. in Computer Science, Université de Montréal, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* June 2019 to June 2020: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
