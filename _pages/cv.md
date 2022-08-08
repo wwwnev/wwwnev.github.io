@@ -24,11 +24,11 @@ Work experience
 * June 2019 to June 2020: **Research Assistant**, Faculté de l'Aménagement, Université de Montréal
   * Creation of educational content for a web platform
   
-Skills
-======
-* C++
-* Python
-* Git
+#Skills
+#======
+#* C++
+#* Python
+#* Git
 
 Publications
 ======
