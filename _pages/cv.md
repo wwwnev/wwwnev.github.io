@@ -17,24 +17,18 @@ Education
 
 Work experience
 ======
-* June 2019 to June 2020: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2019 to April 2021: Teaching Assistant
+  * Winter 2021: Human-Computer Interactions
+  * Autumn 2020: Architectural Photography
+  * Autumn 2019: Structure and Material Resistance
+* June 2019 to June 2020: Research Assistant, Faculty of Architecture
+  * Creation of educational content
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* Python
+* Git
 
 Publications
 ======
