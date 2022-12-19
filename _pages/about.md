@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Master's student. Computer science at [Universit&#233; de Montr&#233;al](https://www.umontreal.ca/), under the supervision of [Mikhail Bessmeltsev](http://www-labs.iro.umontreal.ca/~bmpix/). I hold two bachelor's degree, both from Universit&#233; de Montr&#233;al. The first in computer science (2014-2017), the second in architecture (2017-2020).
+(Now graduated) Master's student. Computer science at [Universit&#233; de Montr&#233;al](https://www.umontreal.ca/), under the supervision of [Mikhail Bessmeltsev](http://www-labs.iro.umontreal.ca/~bmpix/). I hold two bachelor's degrees, both from Universit&#233; de Montr&#233;al. The first in computer science (2014-2017), the second in architecture (2017-2020).
 
 Publications
 ======
 
 [Stability-Aware Simplification of Curve Networks](http://www-labs.iro.umontreal.ca/~bmpix/curve_networks/)  
-**William Neveu**, Ivan Puhachov, Bernhard Thomaszewski, and Mikhail Bessmeltsev  
+**William Neveu**, Ivan Puhachov, Bernhard Thomaszewski, Mikhail Bessmeltsev  
 ACM SIGGRAPH 2022 Proceedings  
 [\[PDF\]](http://www-labs.iro.umontreal.ca/~bmpix/curve_networks/files/curve_networks.pdf) [\[website\]](http://www-labs.iro.umontreal.ca/~bmpix/curve_networks/) [\[acm\]](https://dl.acm.org/doi/10.1145/3528233.3530711) [\[code\]](https://github.com/wwwnev/Stability-Aware-Simplification-of-Curve-Networks)
 
